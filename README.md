@@ -1,2 +1,2 @@
-*Calculate Your Age Application
--- C++
+--Calculate Your Age Application
+-C++
